@@ -1,5 +1,3 @@
-//反转链表
-
 /*
 struct ListNode {
 	int val;
